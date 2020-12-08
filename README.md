@@ -61,3 +61,19 @@ Discussed Concepts:
 ### [[Day01_Slides]](Day01_07Dec2020/Programming_Using_Python_Slides.pdf), [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/0d2e34fe3d5f73b9ba478667a6f20564698b6fefb5bd4a0d530c5e3ef6492cac)
 
 ************
+
+## Day02 Introduction to Programming using Python (08-Dec-2020)
+## Discussed Concepts
+
+1. Difference between `.py` files versus `.ipynb` files
+1. Literate Programming
+3. Jupyter Notebook Environment
+4. Markdown Syntax
+   1. For documentation
+   2. For Math
+
+### Day02_Discussed_Notebook → [[.ipynb format]](Day02_08Dec2020/Day01_Jupyter_Intro_Markdown_Syntax.ipynb), [[.pdf format]](Day02_08Dec2020/Day01_Jupyter_Intro_Markdown_Syntax.ipynb)
+### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/b0f58bd82012727f3371f7f5265c0c25dd022e936dac506f540f2a162a40d9e3)
+
+#### Literate Programming Paper → [[.pdf]](Day02_08Dec2020/Literate_Programming.pdf), Markdown Cheat Sheet → [[.pdf]](Day02_08Dec2020/markdown_cheat_sheet.pdf), Math Markdown Cheat Sheet → [[.pdf]](Day02_08Dec2020/math_markdown.pdf)
+---------
