@@ -77,3 +77,23 @@ Discussed Concepts:
 
 #### Literate Programming Paper → [[.pdf]](Day02_08Dec2020/Literate_Programming.pdf), Markdown Cheat Sheet → [[.pdf]](Day02_08Dec2020/markdown_cheat_sheet.pdf), Math Markdown Cheat Sheet → [[.pdf]](Day02_08Dec2020/math_markdown.pdf)
 ---------
+
+## Day03 Python Basics and Operators in Python (09-Dec-2020)
+## Discussed Concepts
+
+1. Python Basics
+    1. print()
+    1. input()
+    1. Data Types
+    1. Type Conversion
+1. Identifiers 
+    1. Properties of Identifiers
+    1. Identifier Guidelines PEP8
+1. Operators in Python
+    1. Arthematic
+    1. Logical
+    1. Relational
+
+### Day03_Discussed_Notebook → [[.ipynb format]](Day03_09Dec2020/Day03_Python_Basics_&_Operators.ipynb), [[.pdf format]](Day03_09Dec2020/Day03_Python_Basics_&_Operators.pdf)
+### [[Day03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/6b2c345747a86388efa5da8c84f476683bdad45d091e3e58a4c1edde11b8db02)
+--------------------
