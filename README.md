@@ -97,3 +97,23 @@ Discussed Concepts:
 ### Day03_Discussed_Notebook → [[.ipynb format]](Day03_09Dec2020/Day03_Python_Basics_&_Operators.ipynb), [[.pdf format]](Day03_09Dec2020/Day03_Python_Basics_&_Operators.pdf)
 ### [[Day03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/6b2c345747a86388efa5da8c84f476683bdad45d091e3e58a4c1edde11b8db02)
 --------------------
+
+## Day04 Operators & Strings in Python (10-Dec-2020)
+## Discussed Concepts
+
+1. Operators in Python contd..
+    1. Assignment
+    2. Bitwise
+    3. Special Operators in Python
+         1. Membership
+         2. Identity
+2. Strings
+      1. What is a string
+      2. How to declare a string
+      3. Accessing the elements from the string
+      4. String Slicing
+      4. String Methods
+
+### Day04_Discussed_Notebook → [[.ipynb format]](Day04_10Dec2020/Operators_&_Strings_in_Python.ipynb), [[.pdf format]](Day04_10Dec2020/Operators_&_Strings_in_Python.pdf)
+### [[Day04_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/0dfac8a03a8e6eb47a24fcc4841a4871654cabd551a27c7ed5dc224d2c775686)
+--------------------
