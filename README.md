@@ -117,3 +117,17 @@ Discussed Concepts:
 ### Day04_Discussed_Notebook → [[.ipynb format]](Day04_10Dec2020/Operators_&_Strings_in_Python.ipynb), [[.pdf format]](Day04_10Dec2020/Operators_&_Strings_in_Python.pdf)
 ### [[Day04_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/0dfac8a03a8e6eb47a24fcc4841a4871654cabd551a27c7ed5dc224d2c775686)
 --------------------
+
+## Day05 String Methods & Conditional Statements (11-Dec-2020)
+## Discussed Concepts
+
+1. String Methods contd.
+1. Conditional Statements
+      1. if 
+      1. if-else
+      1. if-elif-else
+      
+### Day05_Discussed_Notebook → [[.ipynb format]](Day05_11Dec2020/String_Methods_&_Conditional_Statements.ipynb), [[.pdf format]](Day05_11Dec2020/String_Methods_&_Conditional_Statements.pdf)
+
+### [[Day05_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/52bf3fe031a8ca34281fc571cbb2a70f6834ab64d93831d22212258cb140f44b)
+--------------------
