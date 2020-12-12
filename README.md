@@ -131,3 +131,19 @@ Discussed Concepts:
 
 ### [[Day05_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/52bf3fe031a8ca34281fc571cbb2a70f6834ab64d93831d22212258cb140f44b)
 --------------------
+
+## Day06 Loops in Python (12-Dec-2020)
+## Discussed Concepts
+
+1. What is a Loop
+1. Requirements to Construct a Loop
+1. Types of Loops in Python
+      1. For Loop
+      1. While Loop
+1. Loop Termination Keyword (Break)
+1. Iteration Termination Keyword (Continue)
+      
+### Day06_Discussed_Notebook → [[.ipynb format]](Day06_12Dec2020/Loops_in_Python.ipynb), [[.pdf format]](Day06_12Dec2020/Loops_in_Python.pdf)
+
+### [[Day06_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/965dfabda89e6c75843623d0660f1bd5f6f31cff63c016547766b30f9ef78485)
+--------------------
