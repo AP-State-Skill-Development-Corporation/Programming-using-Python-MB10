@@ -158,7 +158,7 @@ Discussed Concepts:
 1. Examples using functions
 
       
-### Day06_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day07_14Dec2020/14-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day07_14Dec2020/14-12-2020.pdf)
+### Day07_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day07_14Dec2020/14-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day07_14Dec2020/14-12-2020.pdf)
 
-### [[Day06_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/67f2b562f24a272661c3763acd08645be6f254886e48a9ad2c2cdb7018c6881c)
+### [[Day07_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/67f2b562f24a272661c3763acd08645be6f254886e48a9ad2c2cdb7018c6881c)
 --------------------
