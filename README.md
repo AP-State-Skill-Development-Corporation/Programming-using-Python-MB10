@@ -147,3 +147,18 @@ Discussed Concepts:
 
 ### [[Day06_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/965dfabda89e6c75843623d0660f1bd5f6f31cff63c016547766b30f9ef78485)
 --------------------
+
+## Day07 Functions in Python (14-Dec-2020)
+## Discussed Concepts
+
+1. What is a Function
+1. Types of Functions in Python
+      1. builtin Functions
+      1. User Defined Functions
+1. Examples using functions
+
+      
+### Day06_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day07_14Dec2020/14-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day07_14Dec2020/14-12-2020.pdf)
+
+### [[Day06_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/67f2b562f24a272661c3763acd08645be6f254886e48a9ad2c2cdb7018c6881c)
+--------------------
