@@ -166,12 +166,12 @@ Discussed Concepts:
 ## Day08 List concept in Python (15-Dec-2020)
 ## Discussed Concepts
 
-1.yesterday Task
-1.What is a list
-1.List slicing
-1.List indexing
-1.List methods
-1.some examples on list
+1. yesterday Task
+1. What is a list
+1. List slicing
+1. List indexing
+1. List methods
+1. some examples on list
 
       
 ### Day08_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day08_15Dec2020/15-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day08_15Dec2020/15-12-2020.pdf)
