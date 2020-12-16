@@ -178,3 +178,20 @@ Discussed Concepts:
 
 ### [[Day08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/e666280c2a75086baafb8515d3eaac6e33ab81b880f23ffa2cecd099221904ff)
 --------------------
+
+## Day09 tuple and dictionary concept in Python (15-Dec-2020)
+## Discussed Concepts
+
+1. What is a tuple
+1. tuple slicing
+1. tuple indexing
+1. tuple methods
+1. What is dictionary
+1. Methods in dictionary
+1. Examples in dictionary
+
+      
+### Day09_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day09_16Dec2020/16-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day09_16Dec2020/16-12-2020.pdf)
+
+### [[Day09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/86c94fe6b05794e4909bce8025d99459ddd7d96527b9620c6c9ca63449f0e14d)
+--------------------
