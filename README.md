@@ -179,7 +179,7 @@ Discussed Concepts:
 ### [[Day08_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/e666280c2a75086baafb8515d3eaac6e33ab81b880f23ffa2cecd099221904ff)
 --------------------
 
-## Day09 tuple and dictionary concept in Python (15-Dec-2020)
+## Day09 tuple and dictionary concept in Python (16-Dec-2020)
 ## Discussed Concepts
 
 1. What is a tuple
