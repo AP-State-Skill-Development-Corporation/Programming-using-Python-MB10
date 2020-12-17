@@ -195,3 +195,19 @@ Discussed Concepts:
 
 ### [[Day09_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/86c94fe6b05794e4909bce8025d99459ddd7d96527b9620c6c9ca63449f0e14d)
 --------------------
+
+## Day10  yesterdays task ,sets , Modules and Packages  concept in Python (17-Dec-2020)
+## Discussed Concepts
+
+1. yesterdays task
+1. What is set
+1. set methods
+1. What is dictionary
+1. Methods in dictionary
+1. Examples in dictionary
+
+      
+### Day10_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day10_17Dec2020/17-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day10_17Dec2020/17-12-2020.pdf)
+
+
+--------------------
