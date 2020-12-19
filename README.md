@@ -211,3 +211,21 @@ Discussed Concepts:
 
 
 --------------------
+
+## Day11  FileHandling concept in Python (18-Dec-2020)
+## Discussed Concepts
+
+1. What is a File
+1. What is the process for FileHandling
+1. FileHandling methods
+1. FileHandling modes
+1. Some examples on methods
+
+      
+### Day11_Discussed_Notebook → [[.ipynb format]]https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day11_18Dec2020/18-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day11_18Dec2020/filehandling.pdf)
+
+
+--------------------
+
+
+
