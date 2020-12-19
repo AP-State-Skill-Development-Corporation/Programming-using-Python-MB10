@@ -1,0 +1,19 @@
+Regular expression
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+"Regex" redirects here. For the comic book, see Re:Gex.
+
+The match results of the pattern
+(?<=\.) {2,}(?=[A-Z]).
+At least two spaces are matched, but only if they occur directly after a period (.) and before an uppercase letter.
+
+Stephen Cole Kleene, who helped invent the concept
+
+A blacklist on Wikipedia which uses regular expressions to identify bad titles
+A regular expression (shortened as regex or regexp;[1] also referred to as rational expression[2][3]) is a sequence of characters that define a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
+
+The concept arose in the 1950s when the American mathematician Stephen Cole Kleene formalized the description of a regular language. The concept came into common use with Unix text-processing utilities. Different syntaxes for writing regular expressions have existed since the 1980s, one being the POSIX standard and another, widely used, being the Perl syntax.
+
+Regular expressions are used in search engines, search and replace dialogs of word processors and text editors, in text processing utilities such as sed and AWK and in lexical analysis. Many programming languages provide regex capabilities either built-in or via libraries.
+New data appended using r+ mode in the last line
+New data appended using r+ mode in the last line
