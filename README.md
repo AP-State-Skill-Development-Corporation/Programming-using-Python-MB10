@@ -227,5 +227,21 @@ Discussed Concepts:
 
 --------------------
 
+## Day12  File Handling & Regular Expressions in Python (19-Dec-2020)
+## Discussed Concepts
 
+1. File Handling Contd.
+   - Reading Data and Writing to Multiple Files
+   - Using Binary Mode for creating `.doc` files
+2. Regular Expressions
+   - What is regular expression
+   - Methods in `re` package
+      - search()
+      - match()
+      - findall()
+      - sub()
+      - split()
+      
+### Day12_Discussed_Notebook → [[.ipynb format]](Day12_19Dec2020/Files_&_Regular_Expressions.ipynm), [[.pdf format]](Day12_19Dec2020/Files_&_Regular_Expressions.pdf)
+--------------------
 
