@@ -8,7 +8,7 @@ This repository consists of all the files, resources, and recorded session links
 --->
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
-#### Gotomeeting Link → [[Click Here to Join]](https://global.gotomeeting.com/install/739771181) → Meeting Id → 739-771-181
+#### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/apssdcml49) → Meeting Id → 389-871-757
 
 #### Join in Slack for Communication Purpose → [[Click Here to Join]](https://join.slack.com/t/apssdc-community/shared_invite/zt-jngll387-PdH_ZSAw6OgR5cuy7l_UOw)
 
