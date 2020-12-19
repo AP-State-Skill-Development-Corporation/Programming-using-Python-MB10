@@ -222,7 +222,7 @@ Discussed Concepts:
 1. Some examples on methods
 
       
-### Day11_Discussed_Notebook → [[.ipynb format]]https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day11_18Dec2020/18-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day11_18Dec2020/filehandling.pdf)
+### Day11_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day11_18Dec2020/18-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day11_18Dec2020/filehandling.pdf)
 
 
 --------------------
