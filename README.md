@@ -245,3 +245,21 @@ Discussed Concepts:
 ### Day12_Discussed_Notebook → [[.ipynb format]](Day12_19Dec2020/Files_&_Regular_Expressions.ipynm), [[.pdf format]](Day12_19Dec2020/Files_&_Regular_Expressions.pdf)
 --------------------
 
+## Day14  Functional Programming in Python (22-Dec-2020)
+## Discussed Concepts
+
+1. what is Functional Programming
+1. comprehension in python
+   - List comprehension
+   - Tuple comprehension
+   - set comprehension
+   - dictionary comprehension
+1. lambda function
+1. map function
+1. Generators and iterators functions
+
+      
+### Day14_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day11_18Dec2020/18-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day11_18Dec2020/filehandling.pdf)
+
+
+--------------------
