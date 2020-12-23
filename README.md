@@ -276,6 +276,25 @@ Discussed Concepts:
       
 ### Day14_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day14_22Dec2020/22-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day14_22Dec2020/22-12-2020.pdf)
 
+---------------------------
+
+## Day15  Object Oriented programming language in Python (23-Dec-2020)
+## Discussed Concepts
+
+1. OOPS concept in python
+1. Discussed concept in oops:
+   1. Class
+   1. Object
+   1. Constructor
+   1. Inheritance
+      1. Multilevel Inheritance
+      1. Multiple Inheritance
+      1. Hybrid Inheritance
+      1. Hiherical Inheritance
+  1. Introduction to Numpy
+
+      
+### Day15_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day15_23Dec2020/23-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day15_23Dec2020/23-12-2020.pdf)
 
 --------------------
 <!--
