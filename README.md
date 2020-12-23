@@ -227,7 +227,7 @@ Discussed Concepts:
 
 --------------------
 
-## Day12  File Handling & Regular Expressions in Python (19-Dec-2020)
+## Day12 File Handling & Regular Expressions in Python (19-Dec-2020)
 ## Discussed Concepts
 
 1. File Handling Contd.
@@ -242,7 +242,22 @@ Discussed Concepts:
       - sub()
       - split()
       
-### Day12_Discussed_Notebook → [[.ipynb format]](Day12_19Dec2020/Files_&_Regular_Expressions.ipynm), [[.pdf format]](Day12_19Dec2020/Files_&_Regular_Expressions.pdf)
+### Day12_Discussed_Notebook → [[.ipynb format]](Day12_19Dec2020/Files_&_Regular_Expressions.ipynb), [[.pdf format]](Day12_19Dec2020/Files_&_Regular_Expressions.pdf)
+
+--------------------
+
+## Day13 Regular Expressions in Python (20-Dec-2020)
+## Discussed Concepts
+
+1. Regular Expressions Contd..
+   - Special Characters for patterns
+2. Regular Expession Patterens to Verify
+   - Given IP Address is valid or not
+   - Given Indian Mobile is valid or not
+   - Given Email ID valid or not (Task)
+      
+### Day13_Discussed_Notebook → [[.ipynb format]](Day13_21Dec2020/RegularExpressions.ipynb), [[.pdf format]](Day13_21Dec2020/RegularExpressions.pdf)
+
 --------------------
 
 ## Day14  Functional Programming in Python (22-Dec-2020)
@@ -263,3 +278,17 @@ Discussed Concepts:
 
 
 --------------------
+<!--
+Recorded Video Links for future use
+
+**[Day10](https://transcripts.gotomeeting.com/#/s/e04d210e5080906a073143d05c702c8d436d80770c7da77dd2b59c8431be0fc5)**
+
+**[Day11](https://transcripts.gotomeeting.com/#/s/88dff7b1a3704c410f02ccf2399dcb8a701799ceb7431ed60c8cdbbd914c484e)**
+
+**[Day12](https://transcripts.gotomeeting.com/#/s/14a58e9fe0a1c43df98e985ae0e8e31e5c841bc2bb85c46fcdc46a1a2e3b83da)**
+
+**[Day13](https://transcripts.gotomeeting.com/#/s/2e965211d77e4a3a769aa092e933f5b085e0b6e1e6653f2dd7eb40607927f0a1)**
+
+**[Day14](https://transcripts.gotomeeting.com/#/s/cc412127a35a1bbd3445f818e21c96315add2b4cf2c857c5cf27b4a039604851)**
+
+-->
