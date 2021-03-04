@@ -309,7 +309,7 @@ Discussed Concepts:
 
 --------------------
 
-## Day16  Pandas & Visuvilization (26-Dec-2020)
+## Day17  Pandas & Visuvilization (26-Dec-2020)
 ## Discussed Concepts
    1. Introduction to Pandas
    2. Methods in Pandas
