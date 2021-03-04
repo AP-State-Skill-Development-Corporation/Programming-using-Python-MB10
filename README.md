@@ -306,6 +306,7 @@ Recorded Video Links for future use
 
 **[Day12](https://transcripts.gotomeeting.com/#/s/14a58e9fe0a1c43df98e985ae0e8e31e5c841bc2bb85c46fcdc46a1a2e3b83da)**
 
+
 **[Day13](https://transcripts.gotomeeting.com/#/s/2e965211d77e4a3a769aa092e933f5b085e0b6e1e6653f2dd7eb40607927f0a1)**
 
 **[Day14](https://transcripts.gotomeeting.com/#/s/cc412127a35a1bbd3445f818e21c96315add2b4cf2c857c5cf27b4a039604851)**
