@@ -297,6 +297,29 @@ Discussed Concepts:
 ### Day15_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day15_23Dec2020/23-12-2020.ipynb), [[.pdf format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day15_23Dec2020/23-12-2020.pdf)
 
 --------------------
+
+## Day16  Numpy (24-Dec-2020)
+## Discussed Concepts
+   1. Introduction to Numpy
+   2. Methods in Numpy
+   3. Introduction to Pandas
+
+      
+### Day16_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day16_24Dec2020/24-12-2020.ipynb)
+
+--------------------
+
+## Day16  Pandas & Visuvilization (26-Dec-2020)
+## Discussed Concepts
+   1. Introduction to Pandas
+   2. Methods in Pandas
+   3. Introduction to Matplotlib
+   4. Some Examples in Matplotlib
+
+      
+### Day17_Discussed_Notebook → [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Programming-using-Python-MB10/blob/main/Day17_26Dec2020/26-12-2020.ipynb)
+
+--------------------
 <!--
 Recorded Video Links for future use
 
